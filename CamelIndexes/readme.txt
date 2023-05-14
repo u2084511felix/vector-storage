@@ -1,0 +1,1 @@
+camel_index includes the archviz pdfs
